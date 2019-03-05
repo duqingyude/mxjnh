@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+## 梦幻嘉年华官网
 
-You can use the [editor on GitHub](https://github.com/duqingyude/mhjnh/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+本服务端基于卡洛兰科技整空岛整理发布 —— [原贴地址](http://www.mcbbs.net/thread-828658-1-1.html)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+核心mod
+* ┣━ 工业2
+* ┃  └─工业拓展
+* ┣━ 通用机械
+* ┃  └─通用机械粉末拓展
+* ┣━ 工业先锋
+* ┣━ 无尽贪婪
+* ┃  └─无尽贪婪拓展
+* ┣━ 龙之研究
+* ┣━ 环境科技
+* ┣━ 任务书
+* ┣━ 应用能源（AE）
+* ┣━ 热力基础
+* ┃  └─热力拓展
+* ┣━ 天空资源
+* ┗━ 更多的箱子
 
-### Markdown
+1. 高效稳定 —— 从启动器优化到内核，体验优化到牙齿的快感
+2. 多模组整改协调 —— 多数模组都经过调整，稳固的游戏平衡性
+3. 多种辅助mod —— 更贴心更便利的辅助，带给你更好的游戏体验
+4. 高度定制 —— 背景音乐全部自定义~给你卡洛兰原汁原味的美好体验！
+5. 任务系统 —— 完整的任务设计和奖励机制
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![Minecraft梦幻嘉年华开服群聊二维码](img/Minecraft梦幻嘉年华开服群聊二维码.png)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duqingyude/mhjnh/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+官方QQ群：387709590 [点击加群](https://jq.qq.com/?_wv=1027&k=5UE1cX5)
+客户端下载：[微云](https://share.weiyun.com/5TtmjmP)
