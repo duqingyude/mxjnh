@@ -1,4 +1,4 @@
-## 梦幻嘉年华官网
+## 梦想嘉年华官网
 
 本服务端基于卡洛兰科技整空岛整理发布 —— [原贴地址](http://www.mcbbs.net/thread-828658-1-1.html)
 
@@ -25,7 +25,7 @@
 4. 高度定制 —— 背景音乐全部自定义~给你卡洛兰原汁原味的美好体验！
 5. 任务系统 —— 完整的任务设计和奖励机制
 
-![Minecraft梦幻嘉年华开服群聊二维码](img/Minecraft梦幻嘉年华开服群聊二维码.png)
+![Minecraft梦想嘉年华开服群聊二维码](img/Minecraft梦幻嘉年华开服群聊二维码.png)
 
 官方QQ群：387709590 [点击加群](https://jq.qq.com/?_wv=1027&k=5UE1cX5)
 客户端下载：[微云](https://share.weiyun.com/5TtmjmP)
