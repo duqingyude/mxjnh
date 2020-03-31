@@ -28,4 +28,4 @@ GregBlock是一个基于自动化、工业化的复杂整合包，整合包以Gr
 ![Minecraft梦想嘉年华开服群聊二维码](img/temp_qrcode_share_917147250.png)
 
 官方QQ群：917147250 [点击加群](https://jq.qq.com/?_wv=1027&k=5LWsVYh)
-客户端下载：[微云](https://share.weiyun.com/5yWwWOU)
+客户端下载：[微云](https://share.weiyun.com/580QMqX)
