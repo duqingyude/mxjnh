@@ -44,4 +44,4 @@ Crafting components can be bought in the shop.
 ![Minecraft梦想嘉年华开服群聊二维码](img/QQ图片20220829150730.jpg)
 
 官方QQ群：480170326 [点击加群](https://jq.qq.com/?_wv=1027&k=Fb3J7Pnm)
-客户端下载：[微云](https://share.weiyun.com/lgKdkwVv)
+客户端下载：[微云](https://share.weiyun.com/0gvYzpo6)
