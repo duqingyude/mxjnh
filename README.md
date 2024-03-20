@@ -19,12 +19,17 @@ You get Money from the Quest.
 Crafting components can be bought in the shop.
 
 
-这是由Irgendwer00维护的官方Gregicality Modpack。
-只有大约130个mod，它是一个非常轻巧的mod包。
-主要的模组是Gregtech和Gregicality，但也有其他模组可以帮助您实现自动化，如AE2，Thermal Dynamics，XNet等。
+《我的世界》整合包**Gregicality Skyblock Edition**是一个以Gregicality为展示核心的空岛模式整合包。这个官方整合包由Irgendwer00维护，包含大约130个模组，属于较轻量级的整合包。
+
+主要模组包括**Gregtech**和**Gregicality**，此外还有其他一些模组如**AE2 (应用能源2)**、**Thermal Dynamics (热动力学)**、**XNet**等，以帮助玩家进行自动化。整合包还包括了一系列的技术、任务和硬核模组，为玩家提供了一个更具挑战性的游戏体验²。
+
+
+如果你对GTCE（格雷科技社区版）的低难度流程感到厌倦，想要尝试更刺激的游戏内容，Gregicality Skyblock Edition可能会是一个不错的选择。整合包由Gregicality的原作者decal06制作，并得到了The Galaxit Project的作者brachy84的协助。整合包支持的Minecraft版本为Forge 1.12.2。
+
 每个电压都有一个任务章节。
 你从任务中获得金钱。
 制作组件可以在商店购买。
+
 
 ### ScreenShot/服务器截图
 ![](img/2021-12-11_15.29.46.png)
